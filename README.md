@@ -29,7 +29,6 @@ Com base em **Porto Alegre, RS**, trabalhamos para tornar a presença digital ma
 
 - 🌐 **Sites e landing pages** — páginas institucionais e campanhas feitas para apresentar sua marca e facilitar o contato com seus clientes.
 - 🛒 **Lojas virtuais** — experiências de compra com catálogo, carrinho e integração de pagamentos, como cartão, Pix e boleto.
-- 📈 **Marketing digital** — planejamento da presença online para ampliar o alcance e apoiar os objetivos do negócio.
 - 🎧 **Suporte especializado** — acompanhamento e apoio técnico após a entrega.
 
 ## 🧩 Tecnologias e ferramentas
