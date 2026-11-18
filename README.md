@@ -20,6 +20,11 @@ A **MW Digital** conecta empresas a novas oportunidades na internet. Somos uma d
 
 Com base em **Porto Alegre, RS**, trabalhamos para tornar a presença digital mais profissional, acessível e preparada para crescer.
 
+## 👥 Nossa equipe
+
+- **Matheus Guterres** — CEO
+- **Wiliam Fagundes** — CTO
+
 ## 🚀 Como podemos ajudar
 
 - 🌐 **Sites e landing pages** — páginas institucionais e campanhas feitas para apresentar sua marca e facilitar o contato com seus clientes.
@@ -48,6 +53,9 @@ Conte um pouco sobre o seu projeto. Será um prazer entender o que sua empresa p
 <p align="center">
   <a href="mailto:wiliamfagundes.lima@gmail.com">
     <img src="https://img.shields.io/badge/Fale%20com%20a%20MW%20Digital-wiliamfagundes.lima%40gmail.com-1e90ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Entre em contato com a MW Digital por e-mail" />
+  </a>
+  <a href="mailto:Matheusguterrez13@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Matheusguterrez13%40gmail.com-1e90ff?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail de Matheus Guterres" />
   </a>
   <a href="https://github.com/MW-Digital-ai">
     <img src="https://img.shields.io/badge/GitHub-MW%20Digital-000000?style=for-the-badge&logo=github&logoColor=white" alt="Organização MW Digital no GitHub" />
